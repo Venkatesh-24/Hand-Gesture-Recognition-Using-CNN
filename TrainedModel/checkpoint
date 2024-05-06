@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/loges/Desktop/Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network-master/TrainedModel/GestureRecogModel.tfl"
+all_model_checkpoint_paths: "/home/loges/Desktop/Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network-master/TrainedModel/GestureRecogModel.tfl"
